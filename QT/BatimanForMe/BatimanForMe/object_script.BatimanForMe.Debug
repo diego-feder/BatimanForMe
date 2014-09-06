@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\mycreditsdialog.o
+./debug\mysettingsdialog.o
+./debug\myrankingdialog.o
+./debug\play.o
+./debug\mynameinput.o
+./debug\moc_mainwindow.o
+./debug\moc_mycreditsdialog.o
+./debug\moc_mysettingsdialog.o
+./debug\moc_myrankingdialog.o
+./debug\moc_play.o
+./debug\moc_mynameinput.o
+);

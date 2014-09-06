@@ -1,0 +1,1306 @@
+# depslib dependency file v1.0
+1389134082 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\main.cpp
+	"Game.h"
+	<allegro.h>
+
+1389133524 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\allegro.cpp
+	"Allegro.h"
+	<stdlib.h>
+	<stdio.h>
+
+1389132250 c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\allegro.h
+	<allegro.h>
+	<vector>
+
+1389133471 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\game.cpp
+	"Game.h"
+
+1389133252 c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\game.h
+	"Allegro.h"
+
+1389151349 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\src\game.cpp
+	"Game.h"
+
+1389133252 c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\src\game.h
+	"Allegro.h"
+
+1389132250 c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\src\allegro.h
+	<allegro.h>
+	<vector>
+
+1389134082 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\src\main.cpp
+	"Game.h"
+	<allegro.h>
+
+1389150871 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me xd\batiman for me\src\allegro.cpp
+	"Allegro.h"
+	<stdlib.h>
+	<stdio.h>
+
+1391558073 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\allegro.cpp
+	"Allegro.h"
+
+1391558048 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\allegro.h
+	"stdafx.h"
+
+1390790672 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\game.cpp
+	"Game.h"
+	"Scenario01.h"
+
+1390855575 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\game.h
+	"stdafx.h"
+	"Menu.h"
+	"Allegro.h"
+	"Scenario01.h"
+
+1391950268 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\main.cpp
+	"Game.h"
+	"stdafx.h"
+
+1391558073 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\allegro.cpp
+	"Allegro.h"
+
+1391558048 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\allegro.h
+	"stdafx.h"
+
+1390790672 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\game.cpp
+	"Game.h"
+	"Scenario01.h"
+
+1390855575 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\game.h
+	"stdafx.h"
+	"Menu.h"
+	"Allegro.h"
+	"Scenario01.h"
+
+1391950268 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\main.cpp
+	"Game.h"
+	"stdafx.h"
+
+1391816499 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\entity.cpp
+	"Entity.h"
+
+1391816499 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\entity.h
+	"stdafx.h"
+
+1390499470 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\entityelement.cpp
+	"EntityElement.h"
+
+1391625228 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\entityelement.h
+	"stdafx.h"
+	"Entity.h"
+
+1391634241 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\entitylist.cpp
+	"EntityList.h"
+
+1391633415 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\entitylist.h
+	"stdafx.h"
+	"Entity.h"
+	"List.h"
+	"Scenario01.h"
+
+1390356008 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\stdafx.cpp
+	"stdafx.h"
+
+1391995727 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1391995727 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1391816499 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\entity.cpp
+	"Entity.h"
+
+1391816499 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\entity.h
+	"stdafx.h"
+
+1391558310 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\character.cpp
+	"Character.h"
+
+1391558318 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\character.h
+	"stdafx.h"
+	"Entity.h"
+
+1391819559 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\player.h
+	"stdafx.h"
+	"Character.h"
+	"Jump.h"
+	"HealthBar.h"
+	"CollisionManager.h"
+
+1391819559 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\player.cpp
+	"stdafx.h"
+	"Player.h"
+	"Scenario01.h"
+
+1391995727 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1391995727 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1391558310 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\character.cpp
+	"Character.h"
+
+1391558318 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\character.h
+	"stdafx.h"
+	"Entity.h"
+
+1391819559 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\player.h
+	"stdafx.h"
+	"Character.h"
+	"Jump.h"
+	"HealthBar.h"
+	"CollisionManager.h"
+
+1391819559 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\player.cpp
+	"stdafx.h"
+	"Player.h"
+	"Scenario01.h"
+
+1390356008 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\stdafx.cpp
+	"stdafx.h"
+
+1391908503 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\scenario01.h
+	"stdafx.h"
+	"Player.h"
+	"FakeJoker.h"
+	"CharacterList.h"
+	"EntityList.h"
+
+1392055810 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\scenario01.cpp
+	"Scenario01.h"
+
+1390499470 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\entityelement.cpp
+	"EntityElement.h"
+
+1391558365 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\entityelement.h
+	"stdafx.h"
+	"Entity.h"
+
+1391634241 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\entitylist.cpp
+	"EntityList.h"
+
+1391633415 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\entitylist.h
+	"stdafx.h"
+	"Entity.h"
+	"List.h"
+	"Scenario01.h"
+
+1391908503 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\scenario01.h
+	"stdafx.h"
+	"Player.h"
+	"FakeJoker.h"
+	"CharacterList.h"
+	"EntityList.h"
+
+1391908543 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\scenario01.cpp
+	"Scenario01.h"
+
+1391564116 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\menu.cpp
+	"Menu.h"
+
+1391564234 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\menu.h
+	"stdafx.h"
+	"Play.h"
+
+1391907185 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\play.cpp
+	"Play.h"
+
+1391901243 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\play.h
+	"stdafx.h"
+	"Scenario01.h"
+	"CollisionManager.h"
+
+1391564234 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\menu.h
+	"stdafx.h"
+	"Play.h"
+
+1391901243 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\play.h
+	"stdafx.h"
+	"Scenario01.h"
+	"CollisionManager.h"
+
+1391564116 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\menu.cpp
+	"Menu.h"
+
+1391907185 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\play.cpp
+	"Play.h"
+
+1391564380 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\jump.h
+	"stdafx.h"
+
+1391197163 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\jump.cpp
+	"Jump.h"
+
+1391907259 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\fakejoker.h
+	"stdafx.h"
+	"Character.h"
+	"Player.h"
+
+1391558595 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\fakejoker.cpp
+	"FakeJoker.h"
+
+1391564380 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\jump.h
+	"stdafx.h"
+
+1391907259 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\fakejoker.h
+	"stdafx.h"
+	"Character.h"
+	"Player.h"
+
+1391558595 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\fakejoker.cpp
+	"FakeJoker.h"
+
+1391197163 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\jump.cpp
+	"Jump.h"
+
+1391459261 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\characterlist.cpp
+	"CharacterList.h"
+
+1391447206 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\characterlist.h
+	"stdafx.h"
+	"Character.h"
+
+1391459261 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\characterlist.cpp
+	"CharacterList.h"
+
+1391447206 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\characterlist.h
+	"stdafx.h"
+	"Character.h"
+
+1391563637 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\healthbar.cpp
+	"HealthBar.h"
+
+1391564372 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\healthbar.h
+	"stdafx.h"
+
+1391564372 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\healthbar.h
+	"stdafx.h"
+
+1391563637 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\healthbar.cpp
+	"HealthBar.h"
+
+1391632235 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\list.h
+	"stdafx.h"
+
+1391632235 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\list.h
+	"stdafx.h"
+
+1391558073 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\allegro.cpp
+	"Allegro.h"
+
+1391558048 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\allegro.h
+	"stdafx.h"
+
+1391995727 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1391558310 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\character.cpp
+	"Character.h"
+
+1391558318 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\character.h
+	"stdafx.h"
+	"Entity.h"
+
+1391816499 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\entity.h
+	"stdafx.h"
+
+1391459261 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\characterlist.cpp
+	"CharacterList.h"
+
+1391447206 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\characterlist.h
+	"stdafx.h"
+	"Character.h"
+
+1391816499 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\entity.cpp
+	"Entity.h"
+
+1391634241 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\entitylist.cpp
+	"EntityList.h"
+
+1391633415 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\entitylist.h
+	"stdafx.h"
+	"Entity.h"
+	"List.h"
+	"Scenario01.h"
+
+1391632235 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\list.h
+	"stdafx.h"
+
+1391908503 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\scenario01.h
+	"stdafx.h"
+	"Player.h"
+	"FakeJoker.h"
+	"CharacterList.h"
+	"EntityList.h"
+
+1391819559 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\player.h
+	"stdafx.h"
+	"Character.h"
+	"Jump.h"
+	"HealthBar.h"
+	"CollisionManager.h"
+
+1391564380 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\jump.h
+	"stdafx.h"
+
+1391564372 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\healthbar.h
+	"stdafx.h"
+
+1391907259 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\fakejoker.h
+	"stdafx.h"
+	"Character.h"
+	"Player.h"
+
+1391558595 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\fakejoker.cpp
+	"FakeJoker.h"
+
+1390790672 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\game.cpp
+	"Game.h"
+	"Scenario01.h"
+
+1390855575 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\game.h
+	"stdafx.h"
+	"Menu.h"
+	"Allegro.h"
+	"Scenario01.h"
+
+1391564234 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\menu.h
+	"stdafx.h"
+	"Play.h"
+
+1391901243 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\play.h
+	"stdafx.h"
+	"Scenario01.h"
+	"CollisionManager.h"
+
+1391563637 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\healthbar.cpp
+	"HealthBar.h"
+
+1391197163 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\jump.cpp
+	"Jump.h"
+
+1391950268 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\main.cpp
+	"Game.h"
+	"stdafx.h"
+
+1391564116 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\menu.cpp
+	"Menu.h"
+
+1391907185 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\play.cpp
+	"Play.h"
+
+1391908543 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\scenario01.cpp
+	"Scenario01.h"
+
+1390356008 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\stdafx.cpp
+	"stdafx.h"
+
+1391819559 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\player.cpp
+	"stdafx.h"
+	"Player.h"
+	"Scenario01.h"
+
+1391908351 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\collisionmanager.cpp
+	"CollisionManager.h"
+
+1391907198 c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\collisionmanager.h
+	"stdafx.h"
+	"Scenario01.h"
+	"Player.h"
+	"EntityList.h"
+
+1391558073 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\allegro.cpp
+	"Allegro.h"
+
+1391558048 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\allegro.h
+	"stdafx.h"
+
+1391995727 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1391558310 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\character.cpp
+	"Character.h"
+
+1391558318 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\character.h
+	"stdafx.h"
+	"Entity.h"
+
+1391816499 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\entity.h
+	"stdafx.h"
+
+1391459261 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\characterlist.cpp
+	"CharacterList.h"
+
+1391447206 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\characterlist.h
+	"stdafx.h"
+	"Character.h"
+
+1391908351 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\collisionmanager.cpp
+	"CollisionManager.h"
+
+1391907198 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\collisionmanager.h
+	"stdafx.h"
+	"Scenario01.h"
+	"Player.h"
+	"EntityList.h"
+
+1391908503 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\scenario01.h
+	"stdafx.h"
+	"Player.h"
+	"FakeJoker.h"
+	"CharacterList.h"
+	"EntityList.h"
+
+1391819559 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\player.h
+	"stdafx.h"
+	"Character.h"
+	"Jump.h"
+	"HealthBar.h"
+	"CollisionManager.h"
+
+1391564380 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\jump.h
+	"stdafx.h"
+
+1391564372 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\healthbar.h
+	"stdafx.h"
+
+1391907259 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\fakejoker.h
+	"stdafx.h"
+	"Character.h"
+	"Player.h"
+
+1391633415 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\entitylist.h
+	"stdafx.h"
+	"Entity.h"
+	"List.h"
+	"Scenario01.h"
+
+1391632235 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\list.h
+	"stdafx.h"
+
+1391816499 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\entity.cpp
+	"Entity.h"
+
+1391634241 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\entitylist.cpp
+	"EntityList.h"
+
+1391558595 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\fakejoker.cpp
+	"FakeJoker.h"
+
+1390790672 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\game.cpp
+	"Game.h"
+	"Scenario01.h"
+
+1390855575 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\game.h
+	"stdafx.h"
+	"Menu.h"
+	"Allegro.h"
+	"Scenario01.h"
+
+1391564234 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\menu.h
+	"stdafx.h"
+	"Play.h"
+
+1391901243 c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\play.h
+	"stdafx.h"
+	"Scenario01.h"
+	"CollisionManager.h"
+
+1391563637 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\healthbar.cpp
+	"HealthBar.h"
+
+1391197163 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\jump.cpp
+	"Jump.h"
+
+1391950268 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\main.cpp
+	"Game.h"
+	"stdafx.h"
+
+1391564116 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\menu.cpp
+	"Menu.h"
+
+1391907185 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\play.cpp
+	"Play.h"
+
+1391819559 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\player.cpp
+	"stdafx.h"
+	"Player.h"
+	"Scenario01.h"
+
+1391908543 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\scenario01.cpp
+	"Scenario01.h"
+
+1390356008 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\stdafx.cpp
+	"stdafx.h"
+
+1391995727 source:c:\users\erika\dropbox\batiman for me\therealgame - second version\batiman for me\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1391995727 source:c:\users\user\dropbox\batiman for me\therealgame - second version\batiman for me\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1391908351 source:c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\collisionmanager.cpp
+	"CollisionManager.h"
+
+1391907198 c:\users\erika\dropbox\batiman for me\therealgame\batiman for me\src\collisionmanager.h
+	"stdafx.h"
+	"Scenario01.h"
+	"Player.h"
+	"EntityList.h"
+
+1391908351 source:c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\collisionmanager.cpp
+	"CollisionManager.h"
+
+1391907198 c:\users\user\dropbox\batiman for me\therealgame\batiman for me\src\collisionmanager.h
+	"stdafx.h"
+	"Scenario01.h"
+	"Player.h"
+	"EntityList.h"
+
+1394300245 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\allegro.cpp
+	"Allegro.h"
+
+1393080497 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\allegro.h
+	"stdafx.h"
+
+1394309833 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	"pmask.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1394404408 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\character.cpp
+	"Character.h"
+
+1394404594 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\character.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+
+1394141000 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\entity.h
+	"stdafx.h"
+
+1393158003 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\characterlist.cpp
+	"CharacterList.h"
+
+1394431455 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\characterlist.h
+	"stdafx.h"
+	"Character.h"
+
+1394394870 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\entity.cpp
+	"Entity.h"
+
+1392402032 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\game.cpp
+	"Game.h"
+	"Scenario01.h"
+
+1394435659 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\game.h
+	"stdafx.h"
+	"Play.h"
+	"AllegroManager.h"
+	"Scenario01.h"
+	"Ranking.h"
+
+1392350887 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\menu.h
+	"stdafx.h"
+	"Play.h"
+
+1394399531 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\play.h
+	"stdafx.h"
+	"Scenario01.h"
+	"Scenario02.h"
+	"Scenario03.h"
+	"SoundManager.h"
+	"Transitions.h"
+
+1394399941 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\scenario01.h
+	"stdafx.h"
+	"BaseScenario.h"
+	"FakeJoker.h"
+
+1394396583 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\player.h
+	"stdafx.h"
+	"Shot.h"
+	"Ranking.h"
+	"Character.h"
+	"BaseScenario.h"
+
+1391564380 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\jump.h
+	"stdafx.h"
+
+1393080497 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\healthbar.h
+	"stdafx.h"
+
+1394310596 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\collisionmanager.h
+	"BaseScenario.h"
+
+1393006290 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\entitylist.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+	"List.h"
+	"Scenario01.h"
+
+1394403770 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\list.h
+	"stdafx.h"
+
+1394367475 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\fakejoker.h
+	"stdafx.h"
+	"Character.h"
+	"Player.h"
+	"BaseScenario.h"
+
+1394023159 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\healthbar.cpp
+	"HealthBar.h"
+
+1391197163 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\jump.cpp
+	"Jump.h"
+
+1392344848 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\main.cpp
+	"Game.h"
+	"stdafx.h"
+
+1392354496 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\menu.cpp
+	"Menu.h"
+
+1394460761 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\play.cpp
+	"Play.h"
+
+1394405050 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\scenario01.cpp
+	"Scenario01.h"
+
+1390352408 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\stdafx.cpp
+	"stdafx.h"
+
+1392235972 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	<pthread.h>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+	"pmask.h"
+
+1393006290 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\entitylist.cpp
+	"EntityList.h"
+
+1394303437 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\fakejoker.cpp
+	"FakeJoker.h"
+
+1394435902 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\player.cpp
+	"stdafx.h"
+	"Player.h"
+
+1394401718 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\collisionmanager.cpp
+	"CollisionManager.h"
+
+1168819322 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\pmask.h
+
+1392235371 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\pmask.c
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"pmask.h"
+	<allegro.h>
+	<SDL_video.h>
+	<SDL_endian.h>
+
+1392253910 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\scenario.h
+	"stdafx.h"
+	"Player.h"
+	"FakeJoker.h"
+	"CharacterList.h"
+	"EntityList.h"
+
+1393011298 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\scenariobase.h
+	"stdafx.h"
+	"DamageAbleEntityList.h"
+	"CharacterList.h"
+	"Player.h"
+	"CollisionManager.h"
+
+1394300245 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\allegro.cpp
+	"Allegro.h"
+
+1394402428 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\allegro.h
+	"stdafx.h"
+
+1394309833 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\stdafx.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<allegro.h>
+	<winalleg.h>
+	"pmask.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<queue>
+	<algorithm>
+	<typeinfo>
+	<random>
+	<functional>
+
+1168819322 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\pmask.h
+
+1394404408 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\character.cpp
+	"Character.h"
+
+1394404594 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\character.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+
+1394141000 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\entity.h
+	"stdafx.h"
+
+1393158003 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\characterlist.cpp
+	"CharacterList.h"
+
+1394431455 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\characterlist.h
+	"stdafx.h"
+	"Character.h"
+
+1394401718 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\collisionmanager.cpp
+	"CollisionManager.h"
+
+1394310596 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\collisionmanager.h
+	"BaseScenario.h"
+
+1394399941 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\scenario01.h
+	"stdafx.h"
+	"BaseScenario.h"
+	"FakeJoker.h"
+
+1392861210 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\entitylist.h
+	"stdafx.h"
+	"Entity.h"
+	"List.h"
+	"Scenario01.h"
+
+1394403770 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\list.h
+	"stdafx.h"
+
+1394396583 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\player.h
+	"stdafx.h"
+	"Shot.h"
+	"Ranking.h"
+	"Character.h"
+	"BaseScenario.h"
+
+1391564380 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\jump.h
+	"stdafx.h"
+
+1393080497 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\healthbar.h
+	"stdafx.h"
+
+1394367475 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\fakejoker.h
+	"stdafx.h"
+	"Character.h"
+	"Player.h"
+	"BaseScenario.h"
+
+1394395095 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\entity.cpp
+	"Entity.h"
+
+1392840453 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\entitylist.cpp
+	"EntityList.h"
+
+1394303437 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\fakejoker.cpp
+	"FakeJoker.h"
+
+1392402032 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\game.cpp
+	"Game.h"
+	"Scenario01.h"
+
+1394435659 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\game.h
+	"stdafx.h"
+	"Play.h"
+	"AllegroManager.h"
+	"Scenario01.h"
+	"Ranking.h"
+
+1392350887 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\menu.h
+	"stdafx.h"
+	"Play.h"
+
+1394399531 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\play.h
+	"stdafx.h"
+	"Scenario01.h"
+	"Scenario02.h"
+	"Scenario03.h"
+	"SoundManager.h"
+	"Transitions.h"
+
+1394023159 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\healthbar.cpp
+	"HealthBar.h"
+
+1391197163 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\jump.cpp
+	"Jump.h"
+
+1392344848 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\main.cpp
+	"Game.h"
+	"stdafx.h"
+
+1392354496 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\menu.cpp
+	"Menu.h"
+
+1394462595 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\play.cpp
+	"Play.h"
+
+1394435902 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\player.cpp
+	"stdafx.h"
+	"Player.h"
+
+1392312875 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\scenariobase.h
+	"stdafx.h"
+	"EntityList.h"
+	"CharacterList.h"
+	"Player.h"
+	"CollisionManager.h"
+
+1392234578 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\pmask.c
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"pmask.h"
+	<allegro.h>
+	<SDL_video.h>
+	<SDL_endian.h>
+
+1394405050 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\scenario01.cpp
+	"Scenario01.h"
+
+1390352408 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\stdafx.cpp
+	"stdafx.h"
+
+1394367475 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\ranking.h
+	"stdafx.h"
+
+1393617747 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\ranking.cpp
+	"Ranking.h"
+
+1394367475 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\ranking.h
+	"stdafx.h"
+
+1393617747 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\ranking.cpp
+	"Ranking.h"
+
+1394437814 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\shot.cpp
+	"Shot.h"
+
+1394367475 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\shot.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+
+1394437814 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\shot.cpp
+	"Shot.h"
+
+1394367475 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\shot.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+
+1393637453 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\sounds.h
+	"stdafx.h"
+
+1393637755 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\sounds.cpp
+	"Sounds.h"
+
+1393637453 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\sounds.h
+	"stdafx.h"
+
+1393637755 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\sounds.cpp
+	"Sounds.h"
+
+1394452653 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\scenario02.cpp
+	"Scenario02.h"
+
+1394364724 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\scenario02.h
+	"stdafx.h"
+	"BaseScenario.h"
+	"Trap.h"
+	"Goon.h"
+
+1394435977 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\timer.cpp
+	"Timer.h"
+
+1394305988 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1394305988 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\timer.h
+	"stdafx.h"
+	"Thread.h"
+
+1394435977 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\timer.cpp
+	"Timer.h"
+
+1392748244 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\threadobject.cpp
+	"ThredObject.h"
+
+1394306156 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\thredobject.h
+
+1392747172 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\thredobject.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1392748244 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\threadobject.cpp
+	"ThredObject.h"
+
+1394364724 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\scenario02.h
+	"stdafx.h"
+	"BaseScenario.h"
+	"Trap.h"
+	"Goon.h"
+
+1394452653 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\scenario02.cpp
+	"Scenario02.h"
+
+1392957136 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\instructions.h
+	"stdafx.h"
+
+1393528193 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\instructions.cpp
+	"Instructions.h"
+
+1392957136 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\instructions.h
+	"stdafx.h"
+
+1393528193 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\instructions.cpp
+	"Instructions.h"
+
+1394367475 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\damageableentity.h
+	"stdafx.h"
+	"Entity.h"
+
+1394303435 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\damageableentity.cpp
+	"DamageAbleEntity.h"
+
+1393441791 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\damageableentitylist.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+	"List.h"
+
+1394303435 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\damageableentitylist.cpp
+	"DamageAbleEntityList.h"
+
+1394367475 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\damageableentity.h
+	"stdafx.h"
+	"Entity.h"
+
+1393441791 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\damageableentitylist.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+	"List.h"
+
+1394303435 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\damageableentity.cpp
+	"DamageAbleEntity.h"
+
+1394303435 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\damageableentitylist.cpp
+	"DamageAbleEntityList.h"
+
+1394392001 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\basescenario.cpp
+	"BaseScenario.h"
+
+1394392001 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\basescenario.cpp
+	"BaseScenario.h"
+
+1394456649 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\basescenario.h
+	"stdafx.h"
+	"Entity.h"
+	"DamageAbleEntityList.h"
+	"CharacterList.h"
+	"Player.h"
+	"CollisionManager.h"
+	"Timer.h"
+
+1394402909 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\basescenario.h
+	"stdafx.h"
+	"Entity.h"
+	"DamageAbleEntityList.h"
+	"CharacterList.h"
+	"Player.h"
+	"CollisionManager.h"
+	"Timer.h"
+
+1394367840 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\scenario03.h
+	"stdafx.h"
+	"BaseScenario.h"
+	"Boss.h"
+
+1394405049 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\scenario03.cpp
+	"Scenario03.h"
+
+1394461078 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\boss.cpp
+	"Boss.h"
+
+1394403926 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\boss.h
+	"stdafx.h"
+	"Shot.h"
+	"Character.h"
+	"Player.h"
+	"Timer.h"
+	"Thread.h"
+	"Boss.h"
+
+1394461078 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\boss.cpp
+	"Boss.h"
+
+1394403926 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\boss.h
+	"stdafx.h"
+	"Shot.h"
+	"Character.h"
+	"Player.h"
+	"Timer.h"
+	"Thread.h"
+	"Boss.h"
+
+1394367840 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\scenario03.h
+	"stdafx.h"
+	"BaseScenario.h"
+	"Boss.h"
+
+1394405049 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\scenario03.cpp
+	"Scenario03.h"
+
+1394141388 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\trap.cpp
+	"Trap.h"
+
+1394141000 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\trap.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+	"BaseScenario.h"
+
+1394141000 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\trap.h
+	"stdafx.h"
+	"DamageAbleEntity.h"
+	"BaseScenario.h"
+
+1394141388 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\trap.cpp
+	"Trap.h"
+
+1394282673 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\goon.cpp
+	"Goon.h"
+
+1394367475 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\goon.h
+	"stdafx.h"
+	"Character.h"
+	"Player.h"
+	"BaseScenario.h"
+
+1394367475 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\goon.h
+	"stdafx.h"
+	"Character.h"
+	"Player.h"
+	"BaseScenario.h"
+
+1394282673 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\goon.cpp
+	"Goon.h"
+
+1394306063 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1394306190 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\thread.cpp
+	"Thread.h"
+
+1394310582 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\transitions.h
+	"stdafx.h"
+
+1394390690 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\transitions.cpp
+	"Transitions.h"
+
+1394306063 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\thread.h
+	"stdafx.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+
+1394310582 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\transitions.h
+	"stdafx.h"
+
+1394306190 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\thread.cpp
+	"Thread.h"
+
+1394390546 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\transitions.cpp
+	"Transitions.h"
+
+1394367746 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\soundmanager.h
+	"stdafx.h"
+
+1394367872 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\soundmanager.cpp
+	"SoundManager.h"
+
+1394367746 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\soundmanager.h
+	"stdafx.h"
+
+1394367872 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\soundmanager.cpp
+	"SoundManager.h"
+
+1394402524 c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\allegromanager.h
+	"stdafx.h"
+
+1394402396 source:c:\users\user\dropbox\batiman for me\therealgame\batimanforme\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1394402396 source:c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\allegromanager.cpp
+	"AllegroManager.h"
+
+1394402524 c:\users\erika\dropbox\batiman for me\therealgame\batimanforme\src\allegromanager.h
+	"stdafx.h"
+

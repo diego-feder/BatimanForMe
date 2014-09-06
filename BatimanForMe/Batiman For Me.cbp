@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Batiman For Me" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Batiman For Me" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Batiman For Me" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="src/AllegroManager.cpp" />
+		<Unit filename="src/AllegroManager.h" />
+		<Unit filename="src/BaseScenario.cpp" />
+		<Unit filename="src/BaseScenario.h" />
+		<Unit filename="src/Boss.cpp" />
+		<Unit filename="src/Boss.h" />
+		<Unit filename="src/Character.cpp" />
+		<Unit filename="src/Character.h" />
+		<Unit filename="src/CharacterList.cpp" />
+		<Unit filename="src/CharacterList.h" />
+		<Unit filename="src/CollisionManager.cpp" />
+		<Unit filename="src/CollisionManager.h" />
+		<Unit filename="src/DamageAbleEntity.cpp" />
+		<Unit filename="src/DamageAbleEntity.h" />
+		<Unit filename="src/DamageAbleEntityList.cpp" />
+		<Unit filename="src/DamageAbleEntityList.h" />
+		<Unit filename="src/Entity.cpp" />
+		<Unit filename="src/Entity.h" />
+		<Unit filename="src/FakeJoker.cpp" />
+		<Unit filename="src/FakeJoker.h" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/Game.h" />
+		<Unit filename="src/Goon.cpp" />
+		<Unit filename="src/Goon.h" />
+		<Unit filename="src/List.h" />
+		<Unit filename="src/Play.cpp" />
+		<Unit filename="src/Play.h" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/Player.h" />
+		<Unit filename="src/Ranking.cpp" />
+		<Unit filename="src/Ranking.h" />
+		<Unit filename="src/Scenario01.cpp" />
+		<Unit filename="src/Scenario01.h" />
+		<Unit filename="src/Scenario02.cpp" />
+		<Unit filename="src/Scenario02.h" />
+		<Unit filename="src/Scenario03.cpp" />
+		<Unit filename="src/Scenario03.h" />
+		<Unit filename="src/Shot.cpp" />
+		<Unit filename="src/Shot.h" />
+		<Unit filename="src/SoundManager.cpp" />
+		<Unit filename="src/SoundManager.h" />
+		<Unit filename="src/Thread.cpp" />
+		<Unit filename="src/Thread.h" />
+		<Unit filename="src/Timer.cpp" />
+		<Unit filename="src/Timer.h" />
+		<Unit filename="src/Transitions.cpp" />
+		<Unit filename="src/Transitions.h" />
+		<Unit filename="src/Trap.cpp" />
+		<Unit filename="src/Trap.h" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/pmask.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/pmask.h" />
+		<Unit filename="src/stdafx.cpp" />
+		<Unit filename="src/stdafx.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

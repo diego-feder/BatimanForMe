@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mycreditsdialog.o
+./release\mysettingsdialog.o
+./release\myrankingdialog.o
+./release\play.o
+./release\mynameinput.o
+./release\moc_mainwindow.o
+./release\moc_mycreditsdialog.o
+./release\moc_mysettingsdialog.o
+./release\moc_myrankingdialog.o
+./release\moc_play.o
+./release\moc_mynameinput.o
+);
